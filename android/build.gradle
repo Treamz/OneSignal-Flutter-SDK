@@ -16,6 +16,8 @@ rootProject.allprojects {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://jitpack.io" }
+
     }
 }
 
@@ -34,5 +36,6 @@ android {
 }
 
 dependencies {
-    api 'com.onesignal:OneSignal:4.8.2'
+    api 'com.github.Treamz:OneSignal-Android-SDK:main-SNAPSHOT'
+
 }

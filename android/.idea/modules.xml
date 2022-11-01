@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/onesignal.iml" filepath="$PROJECT_DIR$/onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/onesignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/onesignal.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/onesignal.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/onesignal.main.iml" filepath="$PROJECT_DIR$/.idea/modules/onesignal.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/onesignal.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/onesignal.unitTest.iml" />
     </modules>
   </component>
 </project>
