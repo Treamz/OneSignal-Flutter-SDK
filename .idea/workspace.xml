@@ -4,7 +4,54 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bccd7d0f-ba3b-485c-bbc8-5707a0185d0b" name="Changes" comment="" />
+    <list default="true" id="bccd7d0f-ba3b-485c-bbc8-5707a0185d0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FLTWebViewFlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FLTWebViewFlutterPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFDataConverters.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFDataConverters.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFGeneratedWebKitApis.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFGeneratedWebKitApis.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFHTTPCookieStoreHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFHTTPCookieStoreHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFInstanceManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFInstanceManager.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFInstanceManager_Test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFNavigationDelegateHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFNavigationDelegateHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFObjectHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFObjectHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFPreferencesHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFPreferencesHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFScriptMessageHandlerHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFScriptMessageHandlerHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFScrollViewHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFScrollViewHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFUIDelegateHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFUIDelegateHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFUIViewHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFUIViewHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFUserContentControllerHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFUserContentControllerHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFWebViewConfigurationHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFWebViewConfigurationHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFWebViewHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFWebViewHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFWebsiteDataStoreHostApi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FWFWebsiteDataStoreHostApi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterWebView.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/webview-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/onesignalview_flutter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/platform_interface.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/v4/src/webview_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/v4/src/webview_cookie_manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/v4/src/webview_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/v4/webview_flutter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/webview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +59,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GxpvkMiZkX4DDNBi6pLIiTK3AO" />
   <component name="ProjectView">
@@ -30,8 +80,16 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/android/src/main/java/com/onesignal/flutter" />
+      <recent name="$PROJECT_DIR$/ios" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,5 +107,16 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
